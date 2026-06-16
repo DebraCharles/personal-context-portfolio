@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" role="img" aria-label="Flat watercolour borough scene in teal and violet: skyline with clock tower and hospital, a bus and car on the road, people and a cyclist on a winding path through a leafy foreground">
+<rect width="680" height="300" fill="#fbfbf8"/>
+<path d="M0 70 C 100 22, 240 98, 375 54 C 500 16, 615 84, 680 46 L680 0 L0 0 Z" fill="#0fd4d4" opacity="0.16"/>
+<path d="M0 118 C 135 70, 295 142, 455 94 C 565 62, 645 126, 680 102 L680 0 L0 0 Z" fill="#0fd4d4" opacity="0.12"/>
+<ellipse cx="560" cy="52" rx="64" ry="24" fill="#8317d0" opacity="0.10"/>
+<path d="M0 200 C 115 152, 260 186, 410 162 C 535 142, 635 178, 680 166 L680 300 L0 300 Z" fill="#dbdde1" opacity="0.9"/>
+<g opacity="0.85">
+<path d="M60 256 L60 204 L76 188 L92 204 L92 256 Z" fill="#0fd4d4" opacity="0.45"/>
+<path d="M92 256 L92 204 L108 188 L124 204 L124 256 Z" fill="#0fd4d4" opacity="0.60"/>
+<path d="M124 256 L124 204 L140 188 L156 204 L156 256 Z" fill="#0fd4d4" opacity="0.45"/>
+<rect x="180" y="120" width="20" height="136" fill="#8317d0" opacity="0.70"/>
+<polygon points="180,120 190,96 200,120" fill="#8317d0" opacity="0.70"/>
+<circle cx="190" cy="140" r="6" fill="#fbfbf8" opacity="0.9"/>
+<rect x="224" y="160" width="70" height="96" fill="#8317d0" opacity="0.50"/>
+<rect x="253" y="172" width="12" height="34" fill="#fbfbf8" opacity="0.95"/>
+<rect x="242" y="183" width="34" height="12" fill="#fbfbf8" opacity="0.95"/>
+<rect x="249" y="232" width="20" height="24" fill="#fbfbf8" opacity="0.6"/>
+<rect x="314" y="176" width="56" height="80" fill="#0fd4d4" opacity="0.50"/>
+<rect x="322" y="188" width="9" height="14" fill="#fbfbf8" opacity="0.8"/>
+<rect x="337" y="188" width="9" height="14" fill="#fbfbf8" opacity="0.8"/>
+<rect x="352" y="188" width="9" height="14" fill="#fbfbf8" opacity="0.8"/>
+<rect x="384" y="192" width="30" height="64" fill="#8317d0" opacity="0.35"/>
+<rect x="420" y="176" width="24" height="80" fill="#0fd4d4" opacity="0.45"/>
+</g>
+<rect x="0" y="256" width="680" height="18" fill="#8317d0" opacity="0.10"/>
+<g>
+<rect x="470" y="226" width="84" height="30" rx="6" fill="#8317d0" opacity="0.65"/>
+<rect x="477" y="232" width="12" height="11" fill="#fbfbf8" opacity="0.9"/>
+<rect x="493" y="232" width="12" height="11" fill="#fbfbf8" opacity="0.9"/>
+<rect x="509" y="232" width="12" height="11" fill="#fbfbf8" opacity="0.9"/>
+<rect x="525" y="232" width="12" height="11" fill="#fbfbf8" opacity="0.9"/>
+<rect x="541" y="234" width="9" height="20" fill="#fbfbf8" opacity="0.7"/>
+<circle cx="486" cy="257" r="6" fill="#15222e" opacity="0.65"/>
+<circle cx="536" cy="257" r="6" fill="#15222e" opacity="0.65"/>
+</g>
+<g>
+<rect x="588" y="230" width="24" height="12" rx="6" fill="#0fd4d4" opacity="0.55"/>
+<rect x="576" y="238" width="50" height="14" rx="7" fill="#0fd4d4" opacity="0.75"/>
+<circle cx="588" cy="253" r="5" fill="#15222e" opacity="0.65"/>
+<circle cx="614" cy="253" r="5" fill="#15222e" opacity="0.65"/>
+</g>
+<ellipse cx="34" cy="252" rx="44" ry="38" fill="#0fd4d4" opacity="0.35"/>
+<ellipse cx="62" cy="236" rx="30" ry="28" fill="#0fd4d4" opacity="0.28"/>
+<rect x="40" y="248" width="6" height="36" fill="#8317d0" opacity="0.5"/>
+<ellipse cx="660" cy="262" rx="42" ry="36" fill="#8317d0" opacity="0.22"/>
+<ellipse cx="672" cy="244" rx="26" ry="26" fill="#0fd4d4" opacity="0.30"/>
+<path d="M0 276 C 170 262, 400 290, 680 268 L680 300 L0 300 Z" fill="#dbdde1" opacity="0.95"/>
+<path d="M30 298 C 130 268, 240 292, 340 276 C 440 262, 520 290, 660 274" stroke="#fbfbf8" stroke-width="12" fill="none" opacity="0.95" stroke-linecap="round"/>
+<g>
+<circle cx="151" cy="253" r="4.5" fill="#8317d0" opacity="0.75"/>
+<rect x="146" y="259" width="9" height="17" rx="4" fill="#8317d0" opacity="0.75"/>
+<circle cx="322" cy="251" r="4.5" fill="#0fd4d4" opacity="0.85"/>
+<rect x="317" y="257" width="9" height="17" rx="4" fill="#0fd4d4" opacity="0.85"/>
+<circle cx="338" cy="258" r="3.5" fill="#8317d0" opacity="0.6"/>
+<rect x="334" y="263" width="7" height="12" rx="3.5" fill="#8317d0" opacity="0.6"/>
+<path d="M326 262 L334 266" stroke="#8317d0" stroke-width="2" opacity="0.5" stroke-linecap="round"/>
+</g>
+<g>
+<circle cx="403" cy="270" r="7.5" stroke="#8317d0" stroke-width="2" fill="none" opacity="0.8"/>
+<circle cx="429" cy="270" r="7.5" stroke="#8317d0" stroke-width="2" fill="none" opacity="0.8"/>
+<path d="M403 270 L412 258 L429 270 M412 258 L420 258 L416 270 L403 270" stroke="#8317d0" stroke-width="2" fill="none" opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M420 258 C 418 250, 414 246, 412 244" stroke="#0fd4d4" stroke-width="4" fill="none" opacity="0.85" stroke-linecap="round"/>
+<circle cx="411" cy="239" r="4" fill="#0fd4d4" opacity="0.9"/>
+</g>
+</svg>

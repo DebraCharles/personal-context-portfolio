@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" role="img" aria-label="Flat watercolour divider of overlapping leaves and washes">
+<path d="M0 70 C 260 40, 560 90, 860 55 C 1020 38, 1140 70, 1200 58 L1200 110 L0 110 Z" fill="#dbdde1" opacity="0.85"/>
+<ellipse cx="180" cy="62" rx="64" ry="26" fill="#0fd4d4" opacity="0.30" transform="rotate(-12 180 62)"/>
+<ellipse cx="330" cy="52" rx="54" ry="22" fill="#8317d0" opacity="0.22" transform="rotate(8 330 52)"/>
+<ellipse cx="600" cy="60" rx="70" ry="26" fill="#0fd4d4" opacity="0.26" transform="rotate(-6 600 60)"/>
+<ellipse cx="860" cy="50" rx="56" ry="22" fill="#8317d0" opacity="0.20" transform="rotate(10 860 50)"/>
+<ellipse cx="1040" cy="62" rx="62" ry="24" fill="#0fd4d4" opacity="0.30" transform="rotate(-9 1040 62)"/>
+<path d="M150 62 Q 180 40 212 60" stroke="#8317d0" stroke-width="3" fill="none" opacity="0.45" stroke-linecap="round"/>
+<path d="M566 60 Q 600 38 636 58" stroke="#8317d0" stroke-width="3" fill="none" opacity="0.45" stroke-linecap="round"/>
+<path d="M1008 62 Q 1040 40 1074 60" stroke="#8317d0" stroke-width="3" fill="none" opacity="0.45" stroke-linecap="round"/>
+</svg>
